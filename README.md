@@ -13,3 +13,5 @@ Unlike traditional desktop applications that are installed on a computer, web ap
 ![Steps in a web application workflow](https://www.techtarget.com/rms/onlineimages/steps_in_a_web_application_workflow-f.png)
 
 ![Six essential web application development steps](https://www.techtarget.com/rms/onlineimages/six_essential_web_application_development_steps-h.png)
+
+jonkler
